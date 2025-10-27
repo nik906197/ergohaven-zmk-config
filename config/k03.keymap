@@ -50,11 +50,11 @@
 
         sym {
             bindings = <
-&trans  &kp EXCLAMATION  &kp AT          &kp HASH   &kp DOLLAR  &kp PERCENT                    &kp CARET      &kp AMPERSAND  &kp STAR   &kp MINUS  &kp PLUS  &trans
-&trans  &kp LPAR         &kp EQUAL       &kp RPAR   &kp GT      &kp GRAVE                      &kp RU_COMMA   &kp LBKT       &kp UNDER  &kp RBKT   &trans    &trans
-&trans  &kp LT           &kp UNDERSCORE  &kp GT     &kp RPAR    &kp PLUS                       &kp QUESTION   &kp LBRC       &kp SEMI   &kp RBRC   &kp EXCL  &trans
-&trans  &trans           &kp STAR        &kp COLON  &kp FSLH    &trans       &trans    &trans  &kp AMPERSAND  &kp PIPE       &kp TILDE  &kp AMPS   &trans    &trans
-                         &trans          &trans     &trans      &mo 3        &trans    &trans  &trans         &trans         &trans     &trans
+&trans  &kp EXCLAMATION  &kp AT          &kp HASH   &kp DOLLAR  &kp PERCENT                       &kp CARET      &kp AMPERSAND  &kp STAR   &kp MINUS  &kp PLUS  &trans
+&trans  &kp LPAR         &kp EQUAL       &kp RPAR   &kp GT      &kp GRAVE                         &kp RU_COMMA   &kp LBKT       &kp UNDER  &kp RBKT   &trans    &trans
+&trans  &kp LT           &kp UNDERSCORE  &kp GT     &kp RPAR    &kp PLUS                          &kp QUESTION   &kp LBRC       &kp SEMI   &kp RBRC   &kp EXCL  &trans
+&trans  &trans           &kp STAR        &kp COLON  &kp FSLH    &trans       &trans    &kp COMMA  &kp AMPERSAND  &kp RU_DOT     &kp TILDE  &kp AMPS   &trans    &trans
+                         &trans          &trans     &trans      &mo 3        &trans    &trans     &trans         &trans         &trans     &trans
             >;
 
             display-name = "Symbols";
